@@ -1,2 +1,0 @@
-# WEB-DEMO
-FPT PLAY
